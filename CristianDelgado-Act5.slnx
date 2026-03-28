@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Punto2/Punto2.csproj" Id="8c66c2cd-389a-4a3e-a287-4cd7cd18a1d1" />
+  <Project Path="CristianDelgado-Act5/CristianDelgado-Act5.csproj" Id="ee6efd86-11ed-4698-b8ae-5a8a5c4a3f08" />
+  <Project Path="Punto1/Punto1.csproj" Id="a48ebeeb-82e0-4af5-8081-4c062e800d8f" />
+  <Project Path="Punto3/Punto3.csproj" Id="0f894ba5-a4d2-421e-bbe2-09627ce0b220" />
+  <Project Path="Punto4/Punto4.csproj" Id="2a952ff1-89f2-433e-9f78-69c3cc7a9cf5" />
+</Solution>
